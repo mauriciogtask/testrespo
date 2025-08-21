@@ -1,2 +1,2 @@
 # testrespo
-test respo para prueba
+test respo para prueba para laboratorio
